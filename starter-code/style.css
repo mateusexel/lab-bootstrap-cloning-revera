@@ -1,0 +1,26 @@
+.under-slider{
+    background-color: #ed564b;
+
+}
+
+a{
+    color: inherit;
+}
+a:hover{
+    color: inherit;
+    filter: brightness(200%);
+    text-decoration: none;
+
+}
+hr{
+    background-color: #999;    
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: #ed564b;
+    height: 50px;
+    width: 40px; 
+}
+.logo{
+    font-size: 2.5em;
+    font-weight: 800;
+}
